@@ -26,8 +26,8 @@ compilers: {
 ```
 
 ## Usefull Package Manager
-* [OpenZeppelin Contracts](https://www.npmjs.com/package/@openzeppelin/contracts){:target="_blank" rel="noopener"}
+* <a href="https://www.npmjs.com/package/@openzeppelin/contracts" target="_blank">OpenZeppelin Contracts</a>
     * A library for secure smart contract development. Build on a solid foundation of community-vetted code.
 
 ## Ethereum Concepts
-* [Gwei](https://academy.binance.com/en/glossary/gwei){:target="_blank" rel="noopener"}
+* <a href="https://academy.binance.com/en/glossary/gwei" target="_blank">Gwei</a>
