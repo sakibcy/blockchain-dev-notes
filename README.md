@@ -1,13 +1,15 @@
 # Blockchain Development Notes
 
+* [Changing version of Solidity](https://github.com/sakibcy/blockchain-dev-notes#changing-version-of-solidity) 
+
 ### Changing version of Solidity
 ```solidity
 pragma solidity ^0.8.0; // change version here first
 ```
 
-change the compiler version in VS code
+#### Change the compiler version in VS code
 
-change the version on truffle-config.js
+#### Change the version on ```javascript truffle-config.js```
 ```javascript
 compilers: {
     solc: {
