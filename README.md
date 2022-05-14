@@ -3,7 +3,7 @@
 * [Changing version of Solidity](https://github.com/sakibcy/blockchain-dev-notes#changing-version-of-solidity) 
 * [Usefull Package Manager](https://github.com/sakibcy/blockchain-dev-notes#usefull-package-manager)
 
-### Changing version of Solidity
+## Changing version of Solidity
 
 #### Change version here first
 ```solidity
