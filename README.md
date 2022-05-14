@@ -1,16 +1,19 @@
 # Blockchain Development Notes
 
 * [Changing version of Solidity](https://github.com/sakibcy/blockchain-dev-notes#changing-version-of-solidity) 
+* [Usefull Package Manager](https://github.com/sakibcy/blockchain-dev-notes#usefull-package-manager)
 
 ### Changing version of Solidity
+
+#### Change version here first
 ```solidity
-pragma solidity ^0.8.0; // change version here first
+pragma solidity ^0.8.0; 
 ```
 
 #### Change the compiler version in VS code
 <img src='./images/changeSolidityVersionVSCode.png' />
 
-#### Change the version on ```javascript truffle-config.js```
+#### Change the version on ```truffle-config.js```
 ```javascript
 compilers: {
     solc: {
@@ -20,3 +23,7 @@ compilers: {
         runs: 200,
       },
 ```
+
+### Usefull Package Manager
+* [OpenZeppelin Contracts](https://www.npmjs.com/package/@openzeppelin/contracts)
+    * A library for secure smart contract development. Build on a solid foundation of community-vetted code.
