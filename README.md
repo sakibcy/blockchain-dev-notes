@@ -2,6 +2,7 @@
 
 * [Changing version of Solidity](https://github.com/sakibcy/blockchain-dev-notes#changing-version-of-solidity) 
 * [Usefull Package Manager](https://github.com/sakibcy/blockchain-dev-notes#usefull-package-manager)
+* [Ethereum Concepts](https://github.com/sakibcy/blockchain-dev-notes#ethereum-concepts)
 
 ## Changing version of Solidity
 
@@ -24,6 +25,9 @@ compilers: {
       },
 ```
 
-### Usefull Package Manager
+## Usefull Package Manager
 * [OpenZeppelin Contracts](https://www.npmjs.com/package/@openzeppelin/contracts)
     * A library for secure smart contract development. Build on a solid foundation of community-vetted code.
+
+## Ethereum Concepts
+* [Gwei](https://academy.binance.com/en/glossary/gwei)
