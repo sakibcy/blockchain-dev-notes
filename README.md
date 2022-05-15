@@ -28,16 +28,17 @@ compilers: {
 ## Set Truffle to compile Js
 #### Add a bable-preset-env and bable-preset-stage
 A Babel preset that compiles ES2015+ down to ES5 by automatically determining the Babel plugins and polyfills you need based on your targeted browser or runtime environments.
-* Install babel-preset-env
+#### Install babel-preset-env
 ```sh
 npm i @babel/preset-env
 ```
-* Install babel-preset-stage 
+
+#### Install babel-preset-stage 
 ```sh
 npm i babel-preset-stage-2
 ```
 
-* Add ```.babelrc``` file on the project root directory and add those
+#### Add ```.babelrc``` file on the project root directory and add those
 ```json
 {
   "presets": ["env", "stage-2"]
