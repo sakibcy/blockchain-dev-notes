@@ -3,6 +3,7 @@
 * [Changing version of Solidity](https://github.com/sakibcy/blockchain-dev-notes#changing-version-of-solidity) 
 * [Usefull Package Manager](https://github.com/sakibcy/blockchain-dev-notes#usefull-package-manager)
 * [Ethereum Concepts](https://github.com/sakibcy/blockchain-dev-notes#ethereum-concepts)
+* [Truffle installation error](https://github.com/sakibcy/blockchain-dev-notes#truffle-installation-error)
 
 ## Changing version of Solidity
 
@@ -51,3 +52,7 @@ npm i babel-preset-stage-2
 
 ## Ethereum Concepts
 * <a href="https://academy.binance.com/en/glossary/gwei" target="_blank">Gwei</a>
+
+## Truffle installation error
+If you face any error on Truffle installation then
+* Install visual studio with windows build tools 
