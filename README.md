@@ -1,9 +1,9 @@
 # Blockchain Development Notes
 
-* [Changing version of Solidity](https://github.com/sakibcy/blockchain-dev-notes#changing-version-of-solidity) 
-* [Usefull Package Manager](https://github.com/sakibcy/blockchain-dev-notes#usefull-package-manager)
-* [Ethereum Concepts](https://github.com/sakibcy/blockchain-dev-notes#ethereum-concepts)
-* [Truffle installation error](https://github.com/sakibcy/blockchain-dev-notes#truffle-installation-error)
+* [Changing version of Solidity](https://github.com/sakibcy/blockchain-dev-notes/#changing-version-of-solidity) 
+* [Usefull Package Manager](https://github.com/sakibcy/blockchain-dev-notes/#usefull-package-manager)
+* [Ethereum Concepts](https://github.com/sakibcy/blockchain-dev-notes/#ethereum-concepts)
+* [Truffle installation error](https://github.com/sakibcy/blockchain-dev-notes/#truffle-installation-error)
 
 ## Changing version of Solidity
 
